@@ -1,2 +1,2 @@
-# Projeto Analise Dados
- Criação do primeiro projeto de análise de dados e envio de relatório
+# Data Analysis Porject
+ Creation of a data analysis project and submission of the report by email to a fictional manager.
